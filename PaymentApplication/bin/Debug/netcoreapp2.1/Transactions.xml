@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Transactions>
+  <Payment>
+    <CreditCardNumber Type="String">1234123412341234</CreditCardNumber>
+    <CardHolder Type="String">Cristian</CardHolder>
+    <ExpirationDate Type="DateTime">12/12/2019 12:00:00 AM</ExpirationDate>
+    <Amount>50</Amount>
+    <CreateDate Type="Decimal">9/21/2019 11:02:57 PM</CreateDate>
+  </Payment>
+  <Payment>
+    <CreditCardNumber Type="String">1234123412341234</CreditCardNumber>
+    <CardHolder Type="String">Cristian</CardHolder>
+    <ExpirationDate Type="DateTime">12/12/2019 12:00:00 AM</ExpirationDate>
+    <Amount Type="Decimal">50</Amount>
+    <CreateDate Type="DateTime">9/21/2019 11:03:53 PM</CreateDate>
+  </Payment>
+  <Payment>
+    <CreditCardNumber Type="String">1234123412341234</CreditCardNumber>
+    <CardHolder Type="String">Cristian</CardHolder>
+    <ExpirationDate Type="DateTime">12/12/2019 12:00:00 AM</ExpirationDate>
+    <Amount Type="Decimal">50</Amount>
+    <CreateDate Type="DateTime">9/21/2019 11:08:57 PM</CreateDate>
+  </Payment>
+  <Payment>
+    <CreditCardNumber Type="String">1234123412341234</CreditCardNumber>
+    <CardHolder Type="String">Cristian</CardHolder>
+    <ExpirationDate Type="DateTime">12/12/2019 12:00:00 AM</ExpirationDate>
+    <Amount Type="Decimal">50</Amount>
+    <CreateDate Type="DateTime">9/21/2019 11:11:32 PM</CreateDate>
+  </Payment>
+  <Payment>
+    <CreditCardNumber Type="String">1234123412341234</CreditCardNumber>
+    <CardHolder Type="String">Cristian</CardHolder>
+    <ExpirationDate Type="DateTime">12/12/2019 12:00:00 AM</ExpirationDate>
+    <Amount Type="Decimal">50</Amount>
+    <CreateDate Type="DateTime">9/21/2019 11:12:22 PM</CreateDate>
+  </Payment>
+  <Payment>
+    <CreditCardNumber Type="String">1234123412341234</CreditCardNumber>
+    <CardHolder Type="String">Cristian</CardHolder>
+    <ExpirationDate Type="DateTime">12/12/2019 12:00:00 AM</ExpirationDate>
+    <Amount Type="Decimal">50</Amount>
+    <CreateDate Type="DateTime">9/21/2019 11:15:50 PM</CreateDate>
+  </Payment>
+</Transactions>
